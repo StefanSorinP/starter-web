@@ -6,7 +6,9 @@ This repository is for showing how Git and GitHub work
 
 Simple example for testing new things.NEW
 ## Purpose
+testing new things
 
 ## Deployment
+This is a simple web projects, deployment
 
 ## How to
