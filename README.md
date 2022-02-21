@@ -11,7 +11,8 @@ testing new things
 ## Deployment
 This is a simple web projects, deployment
 
-## How to
+## How to contribute
+Please fork this repository and issue etc.
 
 ### Copyright
 
