@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This repository is for showing how Git and GitHub work. Add a line for rebasing
+This repository is for showing how Git and GitHub work. Add a line for rebasing NOTHING IS TRUE EVERYTHING IS PERMITTED
 
 ## Introduction
 
