@@ -16,4 +16,4 @@ Please fork this repository and issue etc.
 
 ### Copyright
 
-@2022 Git.Training
+@2022 Git.Training. ALL RIGHTS RESERVED
