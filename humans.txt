@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   ghost 	ghost@aaa.com	tsdfasfa
 
 # THANKS
 
