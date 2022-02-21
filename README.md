@@ -12,3 +12,7 @@ testing new things
 This is a simple web projects, deployment
 
 ## How to
+
+### Copyright
+
+@2022 Git.Training
